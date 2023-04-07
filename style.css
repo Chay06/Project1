@@ -118,9 +118,9 @@
             color: var(--secondary);
             }
             a:link, a:visited {
-                background-color: black;
-                color: orange;
-                padding: 5.6px 3px;
+                background-color: rgb(12, 12, 12);
+                color: rgb(184, 112, 30);
+                padding: 6.6px 12px;
                 text-align: center;
                 text-decoration: none;
                 display: inline-block;
@@ -128,4 +128,5 @@
               
               a:hover, a:active {
                 background-color: transparent;
+                
               }
